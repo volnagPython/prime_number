@@ -18,3 +18,5 @@ def ver_num(x):
     resp = f"Ведене число {x} - не просте"
     return resp
 
+#Aug.31,2026
+

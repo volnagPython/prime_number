@@ -73,7 +73,7 @@ def master_win():
             text=f"{num_pop}"
         )
 
-        print("my_number =", my_number)
+        # print("my_number =", my_number)
 
     button1 = tk.Button(
         frame1,
