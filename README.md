@@ -15,7 +15,6 @@ git clone <repo_url>
 cd prime_number
 python -m venv venv
 source venv/bin/activate
-pip install -r requirements.txt
 python primeNumberGUI_g.py
 
 #Aug.31,2026

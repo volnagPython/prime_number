@@ -36,5 +36,5 @@ def nump(x):
                 res = dv1.copy()
 
         res = res[::-1]
-        print(f"Prime numbers -- {res}")
+        # print(f"Prime numbers -- {res}")
     return res
